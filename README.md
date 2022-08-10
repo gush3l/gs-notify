@@ -1,6 +1,10 @@
 # gs-notify
 Simple and beautiful notify script with compatibility in syntax with most popular notify scripts!
 
+Look into `fxmanifest.lua` and `client.lua` to understand how compatibility works! You can also add other notify types just by modifying the functions `getIcon getColor getSound` and then adding them in the `config.lua`.
+
+Also you can change the direction of the notifications very easily in `script.js` at `Line 64` and `Line 81`
+
 **Preview:** https://streamable.com/e6qoot
 
 **My Discord Server:** https://discord.gg/XTpGvYeNxg
