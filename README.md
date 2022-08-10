@@ -2,6 +2,9 @@
 Simple and beautiful notify script with compatibility in syntax with most popular notify scripts!
 
 **Preview:** https://streamable.com/op6af1 
+
+**My Discord Server:** https://discord.gg/XTpGvYeNxg
+*I suggest joining as I am going to announce there any other new scripts that I am working on!**
 # 
 
 **LICENSE**
