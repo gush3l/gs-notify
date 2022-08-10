@@ -1,5 +1,7 @@
 # gs-notify
 Simple and beautiful notify script with compatibility in syntax with most popular notify scripts!
+
+**Preview:** https://streamable.com/op6af1 
 # 
 
 **LICENSE**
